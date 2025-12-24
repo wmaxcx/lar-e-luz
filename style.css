@@ -10,12 +10,10 @@
 }
 
 .logo {
-  max-width: 90px;
+  max-width: 160px;
   height: auto;
-  margin: 4px auto 6px;
   display: block;
-  background: none;
-  border: none;
+  margin: 6px auto 10px;
 }
 
 * {
@@ -119,6 +117,7 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
 
 
