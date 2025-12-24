@@ -16,12 +16,12 @@
 }
 
 .logo {
-  max-width: 180px;
+  max-width: 260px;
   height: auto;
   display: block;
-  margin: 8px auto 10px;
+  margin: 4px auto 14px;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,.25));
 }
-
 
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
@@ -118,3 +118,4 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
