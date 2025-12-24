@@ -9,6 +9,11 @@
   --cor-texto-suave: #f0ec10;
 }
 
+.logo {
+  background: white;
+  border: 1px solid red;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -110,3 +115,4 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
