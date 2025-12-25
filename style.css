@@ -30,8 +30,6 @@
   margin-bottom: 4px;
 }
 
-}
-
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background-color: var(--cor-fundo);
@@ -128,6 +126,7 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
 
 
