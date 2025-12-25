@@ -16,7 +16,7 @@
 }
 
 .logo {
-  max-width: 260px;
+  max-width: 600px;
   height: auto;
   display: block;
   margin: 4px auto 14px;
@@ -118,4 +118,5 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
