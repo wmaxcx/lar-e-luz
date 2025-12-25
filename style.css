@@ -50,6 +50,7 @@ body {
 .subtitulo {
   font-size: 0.95rem;
   color: var(--cor-texto-suave);
+  margin-top: 6px;   /* espaço entre as linhas */
 }
 
 .conteudo {
@@ -124,6 +125,7 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
 
 
