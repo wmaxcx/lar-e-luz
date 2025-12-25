@@ -23,6 +23,12 @@
   margin: 8px auto 16px;
 }
 
+.profissional {
+  color: #f0ec10;
+  font-size: 0.9rem;
+  margin-top: 2px;
+}
+
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   background-color: var(--cor-fundo);
@@ -118,6 +124,7 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
 
 
