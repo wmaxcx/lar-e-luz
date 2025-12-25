@@ -27,6 +27,9 @@
   color: #f0ec10;
   font-size: 0.9rem;
   margin-top: 2px;
+  margin-bottom: 4px;
+}
+
 }
 
 body {
@@ -125,6 +128,7 @@ ul li {
   font-size: 0.85rem;
   color: var(--cor-texto-suave);
 }
+
 
 
 
